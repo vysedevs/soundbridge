@@ -1,4 +1,4 @@
-# SoundBridge CLI 🎧🔄🎤
+# SoundBridge 🎧🔄🎤
 
 [🇷🇺 Русский](#русский) | [🇬🇧 English](#english)
 
@@ -24,13 +24,13 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone [https://github.com/vysedevs/soundbridge.git](https://github.com/vysedevs/soundbridge.git)
-   cd SoundBridgeCli
+   cd soundbridge
 2. Запустите утилиту:
    ```bash
    dotnet run
 3. Наслаждайтесь!
 
-# SoundBridge CLI 🎧🔄🎤
+# SoundBridge 🎧🔄🎤
 
 A console utility to stream music apps into a virtual microphone.
 
@@ -56,7 +56,7 @@ A console utility to stream music apps into a virtual microphone.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/vysedevs/soundbridge.git](https://github.com/vysedevs/soundbridge.git)
-   cd SoundBridgeCli
+   cd soundbridge
 2. Run the utility:
    ```bash
    dotnet run
