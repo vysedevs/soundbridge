@@ -1,0 +1,17 @@
+# Сборочные папки .NET
+bin/
+obj/
+[Oo][Bb][Jj]/
+[Bb][Ii][Nn]/
+
+# Пользовательские настройки и кэш Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+project.lock.json
+project.assets.json
+
+# Локальный файл конфигурации с настройками (опционально, 
+# если не хотите публиковать свои личные параметры)
+config.json
