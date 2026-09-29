@@ -23,7 +23,7 @@
 ### 🚀 Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/vysedevs/soundbridge.git](https://github.com/vysedevs/soundbridge.git)
+   git clone https://github.com/vysedevs/soundbridge.git
    cd soundbridge
 2. Запустите утилиту:
    ```bash
@@ -55,7 +55,7 @@ A console utility to stream music apps into a virtual microphone.
 ### 🚀 Installation & Running
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/vysedevs/soundbridge.git](https://github.com/vysedevs/soundbridge.git)
+   git clone https://github.com/vysedevs/soundbridge.git
    cd soundbridge
 2. Run the utility:
    ```bash
